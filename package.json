@@ -19,6 +19,7 @@
   "dependencies": {
     "angular": "1.7.9",
     "axios": "0.19.2",
+    "color": "^4.2.3",
     "electron": "11.0.0",
     "font-awesome": "4.7.0",
     "moment": "2.24.0",
