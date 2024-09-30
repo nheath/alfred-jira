@@ -3,3 +3,4 @@ resources/user_icons
 resources/priority_icons
 node_modules
 npm-debug*
+*.log
